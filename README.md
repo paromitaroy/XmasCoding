@@ -10,7 +10,7 @@ The json files are in this repo as [old.json](old.json) and [new.json](new.json)
 
 ## Rules
 
-90 minute guide for challenge length. Exceed at the peril of your sanity.
+90 minute guide for challenge length, exceed at the peril of your sanity.
 Points deducted for use of external libraries.
 Points deducted for code-golfing using minification technique (eg. ';' in bash).
 
