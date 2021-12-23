@@ -2,11 +2,16 @@
 
 Christmas coding challenge.
 
+## Challenge
+
+Compare the parameters part of the two json files together, outputting the difference as a pretty html table.
+The json files are in this repo as old.json and new.json
+
 ## Rules
 
-90 minute limit, compare the parameters part of the two json files together, outputting the difference as a pretty html table.
-
-Points deducted for use of external libraries, code-golfing using minification technique (';' in bash).
+90 minute guide for challenge length. Exceed at the peril of your sanity.
+Points deducted for use of external libraries, .
+Points deducted for code-golfing using minification technique (eg. ';' in bash)
 
 ## Results
 
