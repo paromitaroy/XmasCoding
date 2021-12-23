@@ -10,8 +10,10 @@ The json files are in this repo as old.json and new.json
 ## Rules
 
 90 minute guide for challenge length. Exceed at the peril of your sanity.
-Points deducted for use of external libraries, .
-Points deducted for code-golfing using minification technique (eg. ';' in bash)
+Points deducted for use of external libraries.
+Points deducted for code-golfing using minification technique (eg. ';' in bash).
+
+Bonus points for if the code runs on a hosted GitHub runner without any other dependencies.
 
 ## Results
 
