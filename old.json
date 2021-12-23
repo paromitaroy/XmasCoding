@@ -88,10 +88,6 @@
         "description": "Deploy Azure Bastion to your vnet. (works with Custom Networking only, not BYO)"
       }
     },
-    "dnsZoneId": {
-      "type": "string",
-      "defaultValue": ""
-    },
     "azureKeyvaultSecretsProvider": {
       "type": "bool",
       "defaultValue": false,
