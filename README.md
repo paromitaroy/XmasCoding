@@ -18,6 +18,10 @@ Points deducted for code-golfing using minification technique (eg. ';' in bash).
 
 Bonus points for if the code runs on a hosted GitHub runner without any other dependencies.
 
+## Submission
+
+Fork the repo and PR
+
 ## Results
 
 Coder | Language | Met challenge | Lines of Code | Code Score | Html pretty score
