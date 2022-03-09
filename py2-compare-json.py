@@ -1,3 +1,5 @@
+# test codeql 
+
 import json
 
 file_html = open('compare.html', 'w')
